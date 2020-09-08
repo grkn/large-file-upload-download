@@ -1,5 +1,5 @@
 # large-file-upload-download
-(Huge file download upload) spring file upload, download also redirect file from one service to other service.
+ spring file upload, download also redirect file from one service to other service.
 
 ## Maven project
 
