@@ -9,9 +9,9 @@ run mvn clean install on main pom.xml
 
 .txt file generator generates 1 GB file with name largeFile.txt. You can modify and change the size
 
-1- First step open TxtFileGenerator.java and run main method and create largetFile.txt.
-2- Second step open ApplicationMain on file uploader and run main method.
-3- Third step open ApplicationMain on file downloader and run main method.
+* First step open TxtFileGenerator.java and run main method and create largetFile.txt.
+* Second step open ApplicationMain on file uploader and run main method.
+* Third step open ApplicationMain on file downloader and run main method.
 
 
 ## Open Browser
